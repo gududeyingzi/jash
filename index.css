@@ -1,6 +1,16 @@
 div {
     width: 300px;
     height: 300px;
+<<<<<<< HEAD
     background-color: aqua;
     margin: 100px auto;
+=======
+    background-color: red;
+    margin: 100px auto;
+}
+li {
+    font-weight: 700;
+    color: red;
+    font-size: 30px;
+>>>>>>> res
 }
